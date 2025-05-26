@@ -1,4 +1,4 @@
-![til](https://raw.githubusercontent.com/welcome.gif)
+![til](/welcome.gif)
 
 **About Me** 
 
