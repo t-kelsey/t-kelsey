@@ -1,3 +1,5 @@
+![til](https://raw.githubusercontent.com/welcome.gif)
+
 **About Me** 
 
 I'm currently studying Computer Science at ALU Freiburg with a passion for software development and problem solving. I enjoy exploring new technologies and building useful and efficient applications. 
