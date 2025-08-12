@@ -1,4 +1,4 @@
-![Alt text](cropped.svg)
+![Alt text](banner.svg)
 
 #
 
