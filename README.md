@@ -1,4 +1,4 @@
-![Alt text](Banner.svg)
+![Alt text](banner.svg)
 
 #
 
