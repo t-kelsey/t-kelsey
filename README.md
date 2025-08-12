@@ -1,4 +1,4 @@
-![til](/welcome1.gif)
+![Alt text](Banner.svg)
 
 #
 
